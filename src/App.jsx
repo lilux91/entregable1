@@ -4,9 +4,8 @@ import './App.css'
 import QuoteBox from './components/QuoteBox'
 import ImageBox from './components/ImageBox'
 import quotes from'./json/quotes.json'
-import images from'./json/images.json'
 import color from './assets/utils/color'
-
+import images from './assets/utils/images'
 
 
 function App() {
